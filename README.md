@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ASP.NET , ADO.NET , .NET CORE**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MrSwapnill/Personal-Portfolio.git](https://github.com/MrSwapnill/Personal-Portfolio.git)
+- 👨‍💻 All of my projects are available at [https://github.com/MrSwapnill](https://github.com/MrSwapnill)
 
 - 📫 How to reach me **Swapnilchoudhari054@gmail.com**
 
