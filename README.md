@@ -1,3 +1,4 @@
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dcoder&psig=AOvVaw1CKwnnZC3X42mMcK7mjj7L&ust=1732621806363000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODkra6194kDFQAAAAAdAAAAABAE">
 <h1 align="center">Hi 👋, I'm Swapnil Chaudhari</h1>
 <h3 align="center">A passionate .Net developer from India</h3>
 
