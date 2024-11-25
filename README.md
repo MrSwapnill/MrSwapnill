@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Swapnilchoudhari054@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/107ySS_khwROgRtC7nCNA3SkwyfcGPQpJ/view?usp=drive_link](https://drive.google.com/file/d/107ySS_khwROgRtC7nCNA3SkwyfcGPQpJ/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1lmtynFVK-hd9EOE9y_rf691NLhrooG4N/view?usp=sharing](https://drive.google.com/file/d/1lmtynFVK-hd9EOE9y_rf691NLhrooG4N/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -52,4 +52,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
   </a> &nbsp&nbsp
 </p>
-
