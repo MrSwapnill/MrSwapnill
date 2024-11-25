@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Swapnilchoudhari054@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lmtynFVK-hd9EOE9y_rf691NLhrooG4N/view?usp=sharing](https://drive.google.com/file/d/1lmtynFVK-hd9EOE9y_rf691NLhrooG4N/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1GKm4glsrRJ73g-QgunsMDiP5jymtqQqZ/view?usp=sharing](https://drive.google.com/file/d/1GKm4glsrRJ73g-QgunsMDiP5jymtqQqZ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
