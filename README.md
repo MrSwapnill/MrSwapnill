@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrswapnill" alt="mrswapnill" /></a> </p>
 
-- 🌱 I’m currently learning **ASP.NET,ADO.NET,ASP.NET MVC, ASP.NET Core DatabaSQL Server, Entity Framework.**
+- 🌱 I’m currently learning **ASP.NET, ADO.NET, ASP.NET MVC, ASP.NET Core, Microsoft SQL Server, Entity Framework.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MrSwapnill](https://github.com/MrSwapnill)
 
