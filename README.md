@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **Swapnilchoudhari054@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/107ySS_khwROgRtC7nCNA3SkwyfcGPQpJ/view?usp=drive_link](https://drive.google.com/file/d/107ySS_khwROgRtC7nCNA3SkwyfcGPQpJ/view?usp=drive_link)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/swapnil-chaudhari-b81470250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/swapnil-chaudhari-b81470250" height="30" width="40" /></a>
