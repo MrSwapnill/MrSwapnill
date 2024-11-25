@@ -1,4 +1,4 @@
-<img src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg" height="100px" width="100%">
+<img src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg" height="500px" width="100%">
 <h1 align="center">Hi 👋, I'm Swapnil Chaudhari</h1>
 <h3 align="center">A passionate .Net developer from India</h3>
 
