@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MrSwapnill](https://github.com/MrSwapnill)
 
-- 📫 How to reach me **Swapnilchoudhari054@gmail.com**
+- 📫 How to reach me **Swapnilchaudhari053@gmail.com**
 
 - 📄 Know about my experiences [[https://drive.google.com/file/d/1GKm4glsrRJ73g-QgunsMDiP5jymtqQqZ/view?usp=sharing](https://drive.google.com/file/d/158dWmwZ-7Ain_Vux7JAckqLg_Mw7luy0/view?usp=sharing)]
 <h3 align="left">Connect with me:</h3>
